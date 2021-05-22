@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a few errors in my code that I needed to figure out how to resolve, but I eventually fixed them. I also had a problem with the user interface where I couldn't click on the text box, but I fixed that by changing the dimensions of my layout.
 
 ## License
 
